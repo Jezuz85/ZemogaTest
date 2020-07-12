@@ -1,0 +1,12 @@
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp3.1\Gateway.Infrastructure.deps.json
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp3.1\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp3.1\Gateway.Infrastructure.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp3.1\Gateway.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp3.1\Gateway.Infrastructure.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp3.1\Gateway.Domain.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp3.1\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp3.1\Gateway.Domain.pdb
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp3.1\Gateway.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp3.1\Gateway.Infrastructure.csproj.CopyComplete
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp3.1\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp3.1\Gateway.Infrastructure.pdb

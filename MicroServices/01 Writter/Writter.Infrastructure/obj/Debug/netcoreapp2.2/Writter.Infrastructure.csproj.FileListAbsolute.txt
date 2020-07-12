@@ -1,0 +1,15 @@
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\bin\Debug\netcoreapp2.2\Writter.Infrastructure.deps.json
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\bin\Debug\netcoreapp2.2\Writter.Infrastructure.runtimeconfig.json
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\bin\Debug\netcoreapp2.2\Writter.Infrastructure.runtimeconfig.dev.json
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\bin\Debug\netcoreapp2.2\Writter.Infrastructure.dll
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\bin\Debug\netcoreapp2.2\Writter.Infrastructure.pdb
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\bin\Debug\netcoreapp2.2\Writter.Domain.dll
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\bin\Debug\netcoreapp2.2\Writter.Domain.pdb
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\obj\Debug\netcoreapp2.2\Writter.Infrastructure.csprojAssemblyReference.cache
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\obj\Debug\netcoreapp2.2\Writter.Infrastructure.AssemblyInfoInputs.cache
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\obj\Debug\netcoreapp2.2\Writter.Infrastructure.AssemblyInfo.cs
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\obj\Debug\netcoreapp2.2\Writter.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\obj\Debug\netcoreapp2.2\Writter.Infrastructure.csproj.CopyComplete
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\obj\Debug\netcoreapp2.2\Writter.Infrastructure.dll
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\obj\Debug\netcoreapp2.2\Writter.Infrastructure.pdb
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Infrastructure\obj\Debug\netcoreapp2.2\Writter.Infrastructure.genruntimeconfig.cache

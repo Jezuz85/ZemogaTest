@@ -1,0 +1,75 @@
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\NLog.config
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.deps.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.runtimeconfig.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.xml
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorAssemblyInfo.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorAssemblyInfo.cs
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorTargetAssemblyInfo.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csproj.CopyComplete
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.genruntimeconfig.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\NLog.config
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.deps.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.runtimeconfig.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.xml
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorAssemblyInfo.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorAssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorTargetAssemblyInfo.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csproj.CopyComplete
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.genruntimeconfig.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\NLog.config
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.deps.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.runtimeconfig.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.API.xml
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\bin\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorAssemblyInfo.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorAssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.RazorTargetAssemblyInfo.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csproj.CopyComplete
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.genruntimeconfig.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.API\obj\Debug\netcoreapp2.2\Users.API.csproj.CoreCompileInputs.cache

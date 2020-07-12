@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gateway.API</name>
+    </assembly>
+    <members>
+        <member name="T:Gateway.API.Controllers.TransactionController">
+            <summary>
+            Controller that handles user transactions
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.TransactionController.#ctor(Gateway.API.Facades.Interfaces.IUserFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.TransactionController.AddTransaction(Gateway.API.Dto.Users.UserTransactionRequest)">
+            <summary>
+            Method that performs a transaction between two users
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Controllers.UsersController">
+            <summary>
+            Controller that handles users
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.#ctor(Gateway.API.Facades.Interfaces.IUserFacade,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.Delete(Gateway.API.Dto.User)">
+            <summary>
+            Method that removes a user from the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.GetUser(Gateway.API.Dto.User)">
+            <summary>
+            Method that get a user from the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.Login(Gateway.API.Dto.User)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.Save(Gateway.API.Dto.User)">
+            <summary>
+            Method that saves a user in the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.Update(Gateway.API.Dto.User)">
+            <summary>
+            Method that update a user in the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.GenerarTokenJWT(Gateway.API.Dto.User)">
+            <summary>
+            Method that generates a token for a user
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.ValidateRole">
+            <summary>
+            Method that validates if a user is an administrator
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Config.UsersConfig">
+            <summary>
+            class that handles the configuration of a user's uri
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Transaction">
+            <summary>
+            class that handles the transaction entity
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Transaction.id">
+            <summary>
+            transaction id
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Transaction.id_origin_user">
+            <summary>
+            id of the user sending a transaction
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Transaction.id_destination_user">
+            <summary>
+            id of the user who receives a transaction
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Transaction.amount">
+            <summary>
+            transaction amount
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Transaction.date_transaction">
+            <summary>
+            transaction date
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.User">
+            <summary>
+            class that handles the user entity
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.id">
+            <summary>
+            user id
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.first_Name">
+            <summary>
+            user's first Name
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.second_Name">
+            <summary>
+            user's second Name
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.first_LastName">
+            <summary>
+            user's first lastname
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.second_LastName">
+            <summary>
+            user's second LastName
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.document_number">
+            <summary>
+            user's document number
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.email">
+            <summary>
+            user's email
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.phone">
+            <summary>
+            user's phone
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.balance">
+            <summary>
+            user's balance
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.isAdmin">
+            <summary>
+            true if you are an administrator, false if you are a normal client
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Users.UserLoginRequest">
+            <summary>
+            class representing the request only for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserLoginRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserLoginRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Users.UserRequest">
+            <summary>
+            class representing the request only for delete and get
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserRequest.id">
+            <summary>
+            user id
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Users.UserSaveRequest">
+            <summary>
+            class representing the request only for save
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.balance">
+            <summary>
+            user's balance
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.document_number">
+            <summary>
+            user's document number
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.email">
+            <summary>
+            user's email
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.first_LastName">
+            <summary>
+            user's first lastname
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.first_Name">
+            <summary>
+            user's first Name
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.isAdmin">
+            <summary>
+            true if you are an administrator, false if you are a normal client
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.phone">
+            <summary>
+            user's phone
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.second_LastName">
+            <summary>
+            user's second LastName
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.second_Name">
+            <summary>
+            user's second Name
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserSaveRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Users.UserTransactionRequest">
+            <summary>
+            class representing the request only for transaction
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserTransactionRequest.amount">
+            <summary>
+            transaction amount
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserTransactionRequest.id_destination_user">
+            <summary>
+            id of the user who receives a transaction
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserTransactionRequest.id_origin_user">
+            <summary>
+            id of the user sending a transaction
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Users.UserUpdateRequest">
+            <summary>
+            class representing the request only for update
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.id">
+            <summary>
+            user id
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.document_number">
+            <summary>
+            user's document number
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.email">
+            <summary>
+            user's email
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.first_LastName">
+            <summary>
+            user's first lastname
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.first_Name">
+            <summary>
+            user's first Name
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.isAdmin">
+            <summary>
+            true if you are an administrator, false if you are a normal client
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.phone">
+            <summary>
+            user's phone
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.second_LastName">
+            <summary>
+            user's second LastName
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.second_Name">
+            <summary>
+            user's second Name
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Users.UserUpdateRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Users.UserResponse">
+            <summary>
+            class that handles the response for the user controller
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Extensions.HttpExtensions">
+            <summary>
+            method that handles httpclient configuration
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Extensions.HttpExtensions.AddUsers(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Options.IOptions{Gateway.API.Dto.Config.UsersConfig})">
+            <summary>
+            method that configures httpclient properties
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Extensions.HttpExtensions.GetRetryPolicy">
+            <summary>
+            method that registers the service retry policy
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Facades.Implementations.UserFacade">
+            <summary>
+            class that manages the facade for the consumption of users' api
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.UserFacade.#ctor(Gateway.Domain.Services.IUserService,AutoMapper.IMapper)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.UserFacade.AddTransaction(Gateway.API.Dto.Transaction)">
+            <summary>
+            Method that performs a transaction between two users
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.UserFacade.AutenticateUser(Gateway.API.Dto.User)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.UserFacade.Delete(Gateway.API.Dto.User)">
+            <summary>
+            Method that removes a user from the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.UserFacade.GetUser(Gateway.API.Dto.User)">
+            <summary>
+            Method that get a user from the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.UserFacade.GetUsers">
+            <summary>
+            Method that get a list of user from the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.UserFacade.Save(Gateway.API.Dto.User)">
+            <summary>
+            Method that saves a user in the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.UserFacade.Update(Gateway.API.Dto.User)">
+            <summary>
+            Method that update a user in the database
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Facades.Interfaces.IUserFacade">
+            <summary>
+            facade user interface
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.IUserFacade.AddTransaction(Gateway.API.Dto.Transaction)">
+            <summary>
+            Method that performs a transaction between two users
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.IUserFacade.AutenticateUser(Gateway.API.Dto.User)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.IUserFacade.Delete(Gateway.API.Dto.User)">
+            <summary>
+            Method that removes a user from the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.IUserFacade.GetUser(Gateway.API.Dto.User)">
+            <summary>
+            Method that get a user from the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.IUserFacade.GetUsers">
+            <summary>
+            Method that get a list user from the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.IUserFacade.Save(Gateway.API.Dto.User)">
+            <summary>
+            Method that saves a user in the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.IUserFacade.Update(Gateway.API.Dto.User)">
+            <summary>
+            Method that update a user in the database
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Mappings.TransactionProfile">
+            <summary>
+            class that performs the different mapping of the application
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.TransactionProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.UserLoginRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Mappings.UserProfile">
+            <summary>
+            class that performs the different mapping of the application
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.UserProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Middlewares.ExceptionMiddleware">
+            <summary>
+            class that handles application exceptions
+            </summary>
+        </member>
+    </members>
+</doc>

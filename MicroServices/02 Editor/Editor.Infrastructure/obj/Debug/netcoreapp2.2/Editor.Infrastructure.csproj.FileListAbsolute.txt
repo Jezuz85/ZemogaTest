@@ -1,0 +1,15 @@
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\bin\Debug\netcoreapp2.2\Editor.Infrastructure.deps.json
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\bin\Debug\netcoreapp2.2\Editor.Infrastructure.runtimeconfig.json
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\bin\Debug\netcoreapp2.2\Editor.Infrastructure.runtimeconfig.dev.json
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\bin\Debug\netcoreapp2.2\Editor.Infrastructure.dll
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\bin\Debug\netcoreapp2.2\Editor.Infrastructure.pdb
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\bin\Debug\netcoreapp2.2\Editor.Domain.dll
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\bin\Debug\netcoreapp2.2\Editor.Domain.pdb
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\obj\Debug\netcoreapp2.2\Editor.Infrastructure.csprojAssemblyReference.cache
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\obj\Debug\netcoreapp2.2\Editor.Infrastructure.AssemblyInfoInputs.cache
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\obj\Debug\netcoreapp2.2\Editor.Infrastructure.AssemblyInfo.cs
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\obj\Debug\netcoreapp2.2\Editor.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\obj\Debug\netcoreapp2.2\Editor.Infrastructure.csproj.CopyComplete
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\obj\Debug\netcoreapp2.2\Editor.Infrastructure.dll
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\obj\Debug\netcoreapp2.2\Editor.Infrastructure.pdb
+D:\TestZemogaJesusGarcia\MicroServices\02 Editor\Editor.Infrastructure\obj\Debug\netcoreapp2.2\Editor.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,60 @@
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.deps.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.runtimeconfig.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csproj.CopyComplete
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.genruntimeconfig.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.deps.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.runtimeconfig.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csproj.CopyComplete
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.genruntimeconfig.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.deps.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.runtimeconfig.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csproj.CopyComplete
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.genruntimeconfig.cache
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csprojAssemblyReference.cache
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.AssemblyInfoInputs.cache
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.AssemblyInfo.cs
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.deps.json
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.runtimeconfig.json
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.runtimeconfig.dev.json
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.dll
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Infrastructure.pdb
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.csproj.CopyComplete
+D:\TestZemogaJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp2.2\Users.Infrastructure.genruntimeconfig.cache

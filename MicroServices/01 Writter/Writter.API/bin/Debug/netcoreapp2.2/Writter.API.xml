@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Writter.API</name>
+    </assembly>
+    <members>
+        <member name="M:Writter.API.Controllers.PostController.#ctor(Writter.API.Facade.Interfaces.IWritterFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Writter.API.Controllers.PostController.CreatePost(Writter.API.Dto.CreatePostRequest)">
+            <summary>
+            Method that creates a post
+            </summary>
+        </member>
+        <member name="T:Writter.API.Controllers.WritterController">
+            <summary>
+            Controller that handles users
+            </summary>
+        </member>
+        <member name="M:Writter.API.Controllers.WritterController.#ctor(Writter.API.Facade.Interfaces.IWritterFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Writter.API.Controllers.WritterController.AutenticateUser(Writter.API.Dto.WritterLoginRequest)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="T:Writter.API.Dto.User">
+            <summary>
+            class that handles the user entity
+            </summary>
+        </member>
+        <member name="T:Writter.API.Dto.WritterLoginRequest">
+            <summary>
+            class representing the request only for login
+            </summary>
+        </member>
+        <member name="P:Writter.API.Dto.WritterLoginRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Writter.API.Dto.WritterLoginRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="M:Writter.API.Facade.Implementations.WritterFacade.#ctor(Writter.Domain.Services.IWritterService,AutoMapper.IMapper)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Writter.API.Facade.Implementations.WritterFacade.CreatePost(Writter.API.Dto.CreatePostRequest)">
+            <summary>
+            Method that creates a post
+            </summary>
+        </member>
+        <member name="T:Writter.API.Facade.Interfaces.IWritterFacade">
+            <summary>
+            facade writter interface
+            </summary>
+        </member>
+        <member name="M:Writter.API.Facade.Interfaces.IWritterFacade.AutenticateUser(Writter.API.Dto.WritterLoginRequest)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Writter.API.Facade.Interfaces.IWritterFacade.CreatePost(Writter.API.Dto.CreatePostRequest)">
+            <summary>
+            Method that creates a post
+            </summary>
+        </member>
+        <member name="T:Writter.API.Mappings.UserProfile">
+            <summary>
+            class that performs the different mapping of the application
+            </summary>
+        </member>
+        <member name="M:Writter.API.Mappings.UserProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Writter.API.Mappings.WritterLoginRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Writter.API.Mappings.CreatePostRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+    </members>
+</doc>

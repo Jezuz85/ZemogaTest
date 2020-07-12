@@ -1,0 +1,9 @@
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp3.1\Users.Infrastructure.deps.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp3.1\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\bin\Debug\netcoreapp3.1\Users.Infrastructure.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp3.1\Users.Infrastructure.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp3.1\Users.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp3.1\Users.Infrastructure.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp3.1\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp3.1\Users.Infrastructure.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Infrastructure\obj\Debug\netcoreapp3.1\Users.Infrastructure.pdb

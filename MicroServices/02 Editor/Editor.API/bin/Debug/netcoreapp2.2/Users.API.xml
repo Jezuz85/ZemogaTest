@@ -1,0 +1,487 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Users.API</name>
+    </assembly>
+    <members>
+        <member name="T:Users.API.Controllers.AutenticateUserController">
+            <summary>
+            Controller that handles users
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.AutenticateUserController.#ctor(Users.API.Facade.Interfaces.IUserFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.AutenticateUserController.AutenticateUser(Users.API.Dtos.Users.UserLoginRequest)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="T:Users.API.Controllers.DeleteUserController">
+            <summary>
+            Controller that handles users
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.DeleteUserController.#ctor(Users.API.Facade.Interfaces.IUserFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.DeleteUserController.Delete(Users.API.Dtos.Users.UserRequest)">
+            <summary>
+            Method that removes a user from the database
+            </summary>
+        </member>
+        <member name="T:Users.API.Controllers.GetUserController">
+            <summary>
+            controller that handles users
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.GetUserController.#ctor(Users.API.Facade.Interfaces.IUserFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.GetUserController.GetUser(Users.API.Dtos.Users.UserRequest)">
+            <summary>
+            get one user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Users.API.Controllers.TransactionController">
+            <summary>
+            controller that handles transactions
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.TransactionController.#ctor(Users.API.Facade.Interfaces.IUserFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.TransactionController.AddTransaction(Users.API.Dtos.Transaction)">
+            <summary>
+            Delete
+            </summary>
+            <param name="idUser"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Users.API.Controllers.UserController">
+            <summary>
+            Controller that handles users
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.UserController.#ctor(Users.API.Facade.Interfaces.IUserFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.UserController.Save(Users.API.Dtos.Users.UserSaveRequest)">
+            <summary>
+            Method that saves a user in the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.UserController.GetUsers">
+            <summary>
+            Method that get a user from the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.UserController.Update(Users.API.Dtos.Users.UserUpdateRequest)">
+            <summary>
+            Method that update a user in the database
+            </summary>
+        </member>
+        <member name="T:Users.API.Dtos.Transaction">
+            <summary>
+            class that handles the transaction entity
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Transaction.id">
+            <summary>
+            transaction id
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Transaction.id_origin_user">
+            <summary>
+            id of the user sending a transaction
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Transaction.id_destination_user">
+            <summary>
+            id of the user who receives a transaction
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Transaction.amount">
+            <summary>
+            transaction amount
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Transaction.date_transaction">
+            <summary>
+            transaction date
+            </summary>
+        </member>
+        <member name="T:Users.API.Dtos.User">
+            <summary>
+            class that handles the user entity
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.id">
+            <summary>
+            user id
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.first_Name">
+            <summary>
+            user's first Name
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.second_Name">
+            <summary>
+            user's second Name
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.first_LastName">
+            <summary>
+            user's first lastname
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.second_LastName">
+            <summary>
+            user's second LastName
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.document_number">
+            <summary>
+            user's document number
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.email">
+            <summary>
+            user's email
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.phone">
+            <summary>
+            user's phone
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.balance">
+            <summary>
+            user's balance
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.User.isAdmin">
+            <summary>
+            true if you are an administrator, false if you are a normal client
+            </summary>
+        </member>
+        <member name="T:Users.API.Dtos.Users.UserLoginRequest">
+            <summary>
+            class representing the request only for login
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserLoginRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserLoginRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="T:Users.API.Dtos.Users.UserRequest">
+            <summary>
+            class representing the request only for delete and get
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserRequest.id">
+            <summary>
+            user id
+            </summary>
+        </member>
+        <member name="T:Users.API.Dtos.Users.UserSaveRequest">
+            <summary>
+            class representing the request only for save
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.balance">
+            <summary>
+            user's balance
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.document_number">
+            <summary>
+            user's document number
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.email">
+            <summary>
+            user's email
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.first_LastName">
+            <summary>
+            user's first lastname
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.first_Name">
+            <summary>
+            user's first Name
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.isAdmin">
+            <summary>
+            true if you are an administrator, false if you are a normal client
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.phone">
+            <summary>
+            user's phone
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.second_LastName">
+            <summary>
+            user's second LastName
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.second_Name">
+            <summary>
+            user's second Name
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserSaveRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="T:Users.API.Dtos.Users.UserTransactionRequest">
+            <summary>
+            class representing the request only for transaction
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserTransactionRequest.amount">
+            <summary>
+            transaction amount
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserTransactionRequest.id_destination_user">
+            <summary>
+            id of the user who receives a transaction
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserTransactionRequest.id_origin_user">
+            <summary>
+            id of the user sending a transaction
+            </summary>
+        </member>
+        <member name="T:Users.API.Dtos.Users.UserUpdateRequest">
+            <summary>
+            class representing the request only for update
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.id">
+            <summary>
+            user id
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.document_number">
+            <summary>
+            user's document number
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.email">
+            <summary>
+            user's email
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.first_LastName">
+            <summary>
+            user's first lastname
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.first_Name">
+            <summary>
+            user's first Name
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.isAdmin">
+            <summary>
+            true if you are an administrator, false if you are a normal client
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.phone">
+            <summary>
+            user's phone
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.second_LastName">
+            <summary>
+            user's second LastName
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.second_Name">
+            <summary>
+            user's second Name
+            </summary>
+        </member>
+        <member name="P:Users.API.Dtos.Users.UserUpdateRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="T:Users.API.Dtos.Users.UserResponse">
+            <summary>
+            class that handles the response for the user controller
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.#ctor(Users.Domain.Services.IUserService,AutoMapper.IMapper)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.AddTransaction(Users.API.Dtos.Transaction)">
+            <summary>
+            Method that performs a transaction between two users
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.AutenticateUser(Users.API.Dtos.Users.UserLoginRequest)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.Delete(Users.API.Dtos.Users.UserRequest)">
+            <summary>
+            Method that removes a user from the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.GetUser(Users.API.Dtos.Users.UserRequest)">
+            <summary>
+            Method that get a user from the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.GetUsers">
+            <summary>
+            Method that get a list of user from the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.Save(Users.API.Dtos.Users.UserSaveRequest)">
+            <summary>
+            Method that saves a user in the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.Update(Users.API.Dtos.Users.UserUpdateRequest)">
+            <summary>
+            Method that update a user in the database
+            </summary>
+        </member>
+        <member name="T:Users.API.Facade.Interfaces.IUserFacade">
+            <summary>
+            facade user interface
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Interfaces.IUserFacade.AddTransaction(Users.API.Dtos.Transaction)">
+            <summary>
+            Method that performs a transaction between two users
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Interfaces.IUserFacade.AutenticateUser(Users.API.Dtos.Users.UserLoginRequest)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Interfaces.IUserFacade.Delete(Users.API.Dtos.Users.UserRequest)">
+            <summary>
+            Method that removes a user from the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Interfaces.IUserFacade.GetUser(Users.API.Dtos.Users.UserRequest)">
+            <summary>
+            Method that get a user from the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Interfaces.IUserFacade.GetUsers">
+            <summary>
+            Method that get a list user from the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Interfaces.IUserFacade.Save(Users.API.Dtos.Users.UserSaveRequest)">
+            <summary>
+            Method that saves a user in the database
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Interfaces.IUserFacade.Update(Users.API.Dtos.Users.UserUpdateRequest)">
+            <summary>
+            Method that update a user in the database
+            </summary>
+        </member>
+        <member name="T:Users.API.Mappings.TransactionProfile">
+            <summary>
+            class that performs the different mapping of the application
+            </summary>
+        </member>
+        <member name="M:Users.API.Mappings.TransactionProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Mappings.UserLoginRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="T:Users.API.Mappings.UserProfile">
+            <summary>
+            class that performs the different mapping of the application
+            </summary>
+        </member>
+        <member name="M:Users.API.Mappings.UserProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Mappings.UserRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Mappings.UserSaveRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Mappings.UserUpdateRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Receivers.TransactionUpdateReceiver.UpdateAmount(Users.Domain.Entities.Tbl_User,Users.Domain.Entities.Tbl_User,Users.Infrastructure.UserContext)">
+            <summary>
+            method that updates amounts after a successful transaction
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\bin\Debug\netcoreapp2.2\Writter.Domain.deps.json
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\bin\Debug\netcoreapp2.2\Writter.Domain.dll
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\bin\Debug\netcoreapp2.2\Writter.Domain.pdb
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\obj\Debug\netcoreapp2.2\Writter.Domain.AssemblyInfoInputs.cache
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\obj\Debug\netcoreapp2.2\Writter.Domain.AssemblyInfo.cs
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\obj\Debug\netcoreapp2.2\Writter.Domain.csproj.CoreCompileInputs.cache
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\obj\Debug\netcoreapp2.2\Writter.Domain.dll
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\obj\Debug\netcoreapp2.2\Writter.Domain.pdb
+D:\TestZemogaJesusGarcia\MicroServices\01 Writter\Writter.Domain\obj\Debug\netcoreapp2.2\Writter.Domain.csprojAssemblyReference.cache

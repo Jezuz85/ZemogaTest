@@ -1,0 +1,83 @@
+11/07/2020 8:16:56 p. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'DatabaseZemoga' del equipo 'MOLIMPIAITLP105' por el usuario 'egarcia'.
+11/07/2020 8:16:56 p. m.	Se inició la importación del esquema de la base de datos.
+11/07/2020 8:17:08 p. m.	Recopilando inicios de sesión
+11/07/2020 8:18:41 p. m.	Recopilando credenciales de la base de datos
+11/07/2020 8:18:41 p. m.	Recopilando opciones de base de datos
+11/07/2020 8:18:41 p. m.	Recopilando la opción de configuración de ámbito de la base de datos genérica
+11/07/2020 8:18:41 p. m.	Recopilando usuarios
+11/07/2020 8:18:41 p. m.	Recopilando roles
+11/07/2020 8:18:41 p. m.	Recopilando roles de aplicación
+11/07/2020 8:18:41 p. m.	Recopilando pertenencias a roles
+11/07/2020 8:18:41 p. m.	Recopilando grupos de archivos
+11/07/2020 8:18:41 p. m.	Recopilando catálogos de texto completo
+11/07/2020 8:18:41 p. m.	Recopilando ensamblados
+11/07/2020 8:18:41 p. m.	Recopilando certificados
+11/07/2020 8:18:41 p. m.	Recopilando claves simétricas
+11/07/2020 8:18:41 p. m.	Recopilando claves simétricas cifradas
+11/07/2020 8:18:41 p. m.	Recopilando esquemas
+11/07/2020 8:18:41 p. m.	Recopilando colecciones de esquemas XML
+11/07/2020 8:18:41 p. m.	Recopilando tipos de datos definidos por el usuario
+11/07/2020 8:18:41 p. m.	Recopilando tipos definidos por el usuario
+11/07/2020 8:18:41 p. m.	Recopilando tipos de tabla
+11/07/2020 8:18:41 p. m.	Recopilando claves únicas para tipos de tabla
+11/07/2020 8:18:41 p. m.	Recopilando claves principales para tipos de tabla
+11/07/2020 8:18:41 p. m.	Recopilando índices para tipos de tablas
+11/07/2020 8:18:41 p. m.	Recopilando restricciones CHECK para tipos de tabla
+11/07/2020 8:18:41 p. m.	Recopilando restricciones DEFAULT para tipos de tabla
+11/07/2020 8:18:41 p. m.	Recopilando funciones de partición
+11/07/2020 8:18:41 p. m.	Recopilando esquemas de partición
+11/07/2020 8:18:41 p. m.	Recopilando funciones
+11/07/2020 8:18:41 p. m.	Recopilando funciones cifradas
+11/07/2020 8:18:41 p. m.	Recopilando agregados
+11/07/2020 8:18:41 p. m.	Recopilando procedimientos
+11/07/2020 8:18:41 p. m.	Recopilando procedimientos cifrados
+11/07/2020 8:18:41 p. m.	Recopilando tablas
+11/07/2020 8:18:42 p. m.	Recopilando claves principales
+11/07/2020 8:18:42 p. m.	Recopilando restricciones UNIQUE
+11/07/2020 8:18:42 p. m.	Recopilando claves externas
+11/07/2020 8:18:42 p. m.	Recopilando restricciones DEFAULT
+11/07/2020 8:18:42 p. m.	Recopilando restricciones CHECK
+11/07/2020 8:18:42 p. m.	Recopilando vistas
+11/07/2020 8:18:42 p. m.	Recopilando vistas cifradas
+11/07/2020 8:18:42 p. m.	Recopilando índices
+11/07/2020 8:18:42 p. m.	Recopilando estadísticas
+11/07/2020 8:18:42 p. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+11/07/2020 8:18:42 p. m.	Recopilando listas de propiedades de búsqueda
+11/07/2020 8:18:42 p. m.	Recopilando propiedades de búsqueda
+11/07/2020 8:18:42 p. m.	Recopilando índices de texto completo
+11/07/2020 8:18:42 p. m.	Recopilando índices de almacenamiento de columnas
+11/07/2020 8:18:42 p. m.	Recopilando índices espaciales
+11/07/2020 8:18:42 p. m.	Recopilando índices XML
+11/07/2020 8:18:42 p. m.	Recopilando índices XML selectivos
+11/07/2020 8:18:42 p. m.	Recopilando desencadenadores cifrados
+11/07/2020 8:18:42 p. m.	Recopilando desencadenadores
+11/07/2020 8:18:42 p. m.	Recopilando DDL triggers cifrados y de CLR
+11/07/2020 8:18:42 p. m.	Recopilando DDL triggers
+11/07/2020 8:18:42 p. m.	Creación de la restricción perimetral en curso
+11/07/2020 8:18:42 p. m.	Recopilando sinónimos
+11/07/2020 8:18:42 p. m.	Recopilando valores predeterminados
+11/07/2020 8:18:42 p. m.	Recopilando enlaces UDDT de restricción de datos
+11/07/2020 8:18:42 p. m.	Recopilando reglas
+11/07/2020 8:18:42 p. m.	Recopilando enlaces UDDT de restricción de datos
+11/07/2020 8:18:42 p. m.	Recopilando tipos de mensaje
+11/07/2020 8:18:42 p. m.	Recopilando colas
+11/07/2020 8:18:42 p. m.	Recopilando contratos
+11/07/2020 8:18:42 p. m.	Recopilando servicios
+11/07/2020 8:18:42 p. m.	Recopilando notificaciones de eventos
+11/07/2020 8:18:42 p. m.	Recopilando enlaces de servicio remoto
+11/07/2020 8:18:42 p. m.	Recopilando prioridades de Broker
+11/07/2020 8:18:42 p. m.	Recopilando firmas
+11/07/2020 8:18:42 p. m.	Recopilando opciones de compresión de datos
+11/07/2020 8:18:42 p. m.	Recopilando tipos de secuencia
+11/07/2020 8:18:42 p. m.	Recopilando directivas de seguridad
+11/07/2020 8:18:42 p. m.	Recopilar claves de cifrado de columna
+11/07/2020 8:18:42 p. m.	Recopilando claves maestras de columna
+11/07/2020 8:18:42 p. m.	Recopilando orígenes de datos externos
+11/07/2020 8:18:42 p. m.	Recopilando tablas externas
+11/07/2020 8:18:43 p. m.	Recopilando propiedades extendidas
+11/07/2020 8:18:46 p. m.	Recopilando inicios de sesión
+11/07/2020 8:18:47 p. m.	Buscando elementos duplicados en el proyecto
+11/07/2020 8:18:48 p. m.	Ha finalizado el procesamiento de los elementos duplicados
+11/07/2020 8:18:50 p. m.	Finalizó la importación de la base de datos.
+11/07/2020 8:18:50 p. m.	Se guardó un resumen de la importación en la siguiente ubicación: D:\TestZemogaJesusGarcia\DatabaseZemoga\Registros de importación de esquemas\DatabaseZemoga_20200712011656.log
+11/07/2020 8:18:50 p. m.	Haga clic en Finalizar para continuar...

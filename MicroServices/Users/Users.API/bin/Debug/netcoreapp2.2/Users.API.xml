@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Users.API</name>
+    </assembly>
+    <members>
+        <member name="T:Users.API.Controllers.UserController">
+            <summary>
+            Controller that handles users
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.UserController.#ctor(Users.API.Facade.Interfaces.IUserFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Controllers.UserController.SaveComment(Users.API.Dto.CommentSaveRequest)">
+            <summary>
+            method that stores a comment for an approved post
+            </summary>
+        </member>
+        <member name="T:Users.API.Dto.Users.UserResponse">
+            <summary>
+            class that handles the response for the user controller
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.#ctor(Users.Domain.Services.IUserService,AutoMapper.IMapper)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Implementations.UserFacade.SaveComment(Users.API.Dto.CommentSaveRequest)">
+            <summary>
+            method that stores a comment for an approved post
+            </summary>
+        </member>
+        <member name="T:Users.API.Facade.Interfaces.IUserFacade">
+            <summary>
+            facade user interface
+            </summary>
+        </member>
+        <member name="M:Users.API.Facade.Interfaces.IUserFacade.SaveComment(Users.API.Dto.CommentSaveRequest)">
+            <summary>
+            method that stores a comment for an approved post
+            </summary>
+        </member>
+        <member name="M:Users.API.Mappings.CommentSaveRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+    </members>
+</doc>

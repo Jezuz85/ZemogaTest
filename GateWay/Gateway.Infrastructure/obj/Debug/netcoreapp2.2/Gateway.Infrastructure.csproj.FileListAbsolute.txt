@@ -1,0 +1,48 @@
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.deps.json
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Domain.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Domain.pdb
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csproj.CopyComplete
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.deps.json
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Domain.dll
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csproj.CopyComplete
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.deps.json
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Domain.dll
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csproj.CopyComplete
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.deps.json
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Domain.dll
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\bin\Debug\netcoreapp2.2\Gateway.Domain.pdb
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csprojAssemblyReference.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.AssemblyInfoInputs.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.AssemblyInfo.cs
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.csproj.CopyComplete
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\TestZemogaJesusGarcia\GateWay\Gateway.Infrastructure\obj\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb

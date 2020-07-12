@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Editor.API</name>
+    </assembly>
+    <members>
+        <member name="T:Editor.API.Controllers.EditorController">
+            <summary>
+            Controller that handles users
+            </summary>
+        </member>
+        <member name="M:Editor.API.Controllers.EditorController.#ctor(Editor.API.Facade.Interfaces.IEditorFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Editor.API.Controllers.EditorController.DeletePost(Editor.API.Dto.PostDeleteRequest)">
+            <summary>
+            Method that deletes a post
+            </summary>
+        </member>
+        <member name="M:Editor.API.Controllers.EditorController.GetPendingPosts">
+            <summary>
+            Method that obtains the post pending approval or rejection
+            </summary>
+        </member>
+        <member name="M:Editor.API.Controllers.EditorController.AproveRejectPost(Editor.API.Dto.PostRequest)">
+            <summary>
+            Method that approves or rejects a post
+            </summary>
+        </member>
+        <member name="T:Editor.API.Dto.Post">
+            <summary>
+            class that handles the user entity
+            </summary>
+        </member>
+        <member name="T:Editor.API.Dto.PostRequest">
+            <summary>
+            class representing the request only for  update
+            </summary>
+        </member>
+        <member name="P:Editor.API.Dto.PostRequest.id">
+            <summary>
+            post id
+            </summary>
+        </member>
+        <member name="P:Editor.API.Dto.PostRequest.state">
+            <summary>
+            id status (Pending, approved, rejected)
+            </summary>
+        </member>
+        <member name="P:Editor.API.Dto.PostRequest.id_Editor">
+            <summary>
+            editor id
+            </summary>
+        </member>
+        <member name="P:Editor.API.Dto.PostDeleteRequest.id">
+            <summary>
+            post id
+            </summary>
+        </member>
+        <member name="M:Editor.API.Facade.Implementations.EditorFacade.#ctor(Editor.Domain.Services.IEditorService,AutoMapper.IMapper)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Editor.API.Facade.Implementations.EditorFacade.AproveRejectPost(Editor.API.Dto.PostRequest)">
+            <summary>
+            Method that approves or rejects a post
+            </summary>
+        </member>
+        <member name="M:Editor.API.Facade.Implementations.EditorFacade.DeletePost(Editor.API.Dto.PostDeleteRequest)">
+            <summary>
+            Method that deletes a post
+            </summary>
+        </member>
+        <member name="M:Editor.API.Facade.Implementations.EditorFacade.GetPendingPosts">
+            <summary>
+            Method that obtains the post pending approval or rejection
+            </summary>
+        </member>
+        <member name="T:Editor.API.Facade.Interfaces.IEditorFacade">
+            <summary>
+            facade user interface
+            </summary>
+        </member>
+        <member name="M:Editor.API.Facade.Interfaces.IEditorFacade.DeletePost(Editor.API.Dto.PostDeleteRequest)">
+            <summary>
+            Method that deletes a post
+            </summary>
+        </member>
+        <member name="M:Editor.API.Facade.Interfaces.IEditorFacade.GetPendingPosts">
+            <summary>
+            Method that obtains the post pending approval or rejection
+            </summary>
+        </member>
+        <member name="M:Editor.API.Facade.Interfaces.IEditorFacade.AproveRejectPost(Editor.API.Dto.PostRequest)">
+            <summary>
+            Method that approves or rejects a post
+            </summary>
+        </member>
+        <member name="T:Editor.API.Mappings.PostProfile">
+            <summary>
+            class that performs the different mapping of the application
+            </summary>
+        </member>
+        <member name="M:Editor.API.Mappings.PostProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Editor.API.Mappings.PostRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Editor.API.Mappings.PostDeleteRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+    </members>
+</doc>

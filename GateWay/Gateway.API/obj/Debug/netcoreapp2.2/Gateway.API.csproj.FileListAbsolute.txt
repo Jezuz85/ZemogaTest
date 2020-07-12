@@ -1,0 +1,100 @@
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\NLog.config
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.deps.json
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.runtimeconfig.json
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.pdb
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.xml
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Domain.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Domain.pdb
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorAssemblyInfo.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorAssemblyInfo.cs
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorTargetAssemblyInfo.cache
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csproj.CopyComplete
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.dll
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.pdb
+D:\MicroServicesJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.genruntimeconfig.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\NLog.config
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.deps.json
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.runtimeconfig.json
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.dll
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.pdb
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.xml
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Domain.dll
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorAssemblyInfo.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorAssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorTargetAssemblyInfo.cache
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csproj.CopyComplete
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.dll
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.pdb
+D:\MicroServicesJesusGarcia - Actualziado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.genruntimeconfig.cache
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\NLog.config
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.deps.json
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.runtimeconfig.json
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.runtimeconfig.dev.json
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.dll
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.pdb
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.xml
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Domain.dll
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorAssemblyInfo.cache
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorAssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorTargetAssemblyInfo.cache
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csproj.CopyComplete
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.dll
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.pdb
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.genruntimeconfig.cache
+D:\MicroServicesJesusGarcia - Actualizado\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csproj.CoreCompileInputs.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\NLog.config
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.deps.json
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.runtimeconfig.json
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.runtimeconfig.dev.json
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.dll
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.pdb
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.API.xml
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Domain.dll
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.dll
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Domain.pdb
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\bin\Debug\netcoreapp2.2\Gateway.Infrastructure.pdb
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csprojAssemblyReference.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.AssemblyInfoInputs.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.AssemblyInfo.cs
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csproj.CoreCompileInputs.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorAssemblyInfo.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorAssemblyInfo.cs
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.RazorTargetAssemblyInfo.cache
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.csproj.CopyComplete
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.dll
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.pdb
+D:\TestZemogaJesusGarcia\GateWay\Gateway.API\obj\Debug\netcoreapp2.2\Gateway.API.genruntimeconfig.cache

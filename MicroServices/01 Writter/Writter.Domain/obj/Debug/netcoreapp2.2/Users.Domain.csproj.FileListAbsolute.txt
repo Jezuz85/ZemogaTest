@@ -1,0 +1,27 @@
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.deps.json
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.deps.json
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia - Actualziado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.deps.json
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\bin\Debug\netcoreapp2.2\Users.Domain.pdb
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.csprojAssemblyReference.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.AssemblyInfoInputs.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.AssemblyInfo.cs
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.csproj.CoreCompileInputs.cache
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.dll
+D:\MicroServicesJesusGarcia - Actualizado\MicroServices\Users\Users.Domain\obj\Debug\netcoreapp2.2\Users.Domain.pdb

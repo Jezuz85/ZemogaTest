@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gateway.API</name>
+    </assembly>
+    <members>
+        <member name="T:Gateway.API.Controllers.EditorController">
+            <summary>
+            Controller that handles editor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.EditorController.#ctor(Gateway.API.Facades.Interfaces.ISystemFacade)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.EditorController.AproveRejectPost(Gateway.API.Dto.PostRequest)">
+            <summary>
+            Method that approves or rejects a post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.EditorController.DeletePost(Gateway.API.Dto.PostDeleteRequest)">
+            <summary>
+            Method that deletes a post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.EditorController.GetPendingPosts">
+            <summary>
+            Method that obtains the post pending approval or rejection
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.EditorController.GetIdEditor">
+            <summary>
+            Method that obtains the id of a person logged in
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.EditorController.ValidateRole">
+            <summary>
+            Method that validates if a user is an administrator
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Controllers.UsersController">
+            <summary>
+            Controller that handles users
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.#ctor(Gateway.API.Facades.Interfaces.ISystemFacade,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.Login(Gateway.API.Dto.UserLoginRequest)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.SaveComment(Gateway.API.Dto.CommentSaveRequest)">
+            <summary>
+            method that stores a comment for an approved post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.GenerarTokenJWT(Gateway.API.Dto.User)">
+            <summary>
+            Method that generates a token for a user
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.UsersController.ValidateRole">
+            <summary>
+            Method that validates if a user is an administrator
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Controllers.WritterController">
+            <summary>
+            Controller that handles writter
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.WritterController.#ctor(Gateway.API.Facades.Interfaces.ISystemFacade,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Controllers.WritterController.CreatePost(Gateway.API.Dto.CreatePostRequest)">
+            <summary>
+            Method that creates a post
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Config.UsersConfig">
+            <summary>
+            class that handles the configuration of a user's uri
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Config.WritterConfig">
+            <summary>
+            class that handles the configuration of a writter's uri
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Config.EditorConfig">
+            <summary>
+            class that handles the configuration of a editor's uri
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.Post">
+            <summary>
+            class that handles the post
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Post.id">
+            <summary>
+            post id
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Post.state">
+            <summary>
+             post status (Pending, approved, rejected)
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Post.datePublish">
+            <summary>
+            post publication date
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.Post.body">
+            <summary>
+            post body message
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.User">
+            <summary>
+            class that handles the user
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.id">
+            <summary>
+            id user
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.user_login">
+            <summary>
+            user login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.password_login">
+            <summary>
+            user password
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.User.isEditor">
+            <summary>
+            field that identifies if a user is an editor
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.PostRequest">
+            <summary>
+            class representing the request only for  update
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.PostRequest.id">
+            <summary>
+            post id
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.PostRequest.state">
+            <summary>
+            id status (Pending, approved, rejected)
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.PostRequest.id_Editor">
+            <summary>
+            editor id
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.PostDeleteRequest.id">
+            <summary>
+            post id
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.UserLoginRequest">
+            <summary>
+            class representing the request only for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.UserLoginRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.UserLoginRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.UserRequest">
+            <summary>
+            class representing the request only for delete and get
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.UserRequest.id">
+            <summary>
+            user id
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.CommentSaveRequest.id_post">
+            <summary>
+            post id
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.CommentSaveRequest.body">
+            <summary>
+            post body message
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Dto.WritterLoginRequest">
+            <summary>
+            class representing the request only for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.WritterLoginRequest.password_login">
+            <summary>
+            user password for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.WritterLoginRequest.user_login">
+            <summary>
+            user account for login
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.CreatePostRequest.body">
+            <summary>
+            post body message
+            </summary>
+        </member>
+        <member name="P:Gateway.API.Dto.CreatePostRequest.idWritter">
+            <summary>
+            id user writter
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Extensions.HttpExtensions">
+            <summary>
+            method that handles httpclient configuration
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Extensions.HttpExtensions.AddUsers(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Options.IOptions{Gateway.API.Dto.Config.UsersConfig})">
+            <summary>
+            method that configures httpclient properties
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Extensions.HttpExtensions.GetRetryPolicy">
+            <summary>
+            method that registers the service retry policy
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Facades.Implementations.SystemFacade">
+            <summary>
+            class that manages the facade for the consumption of users' api
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.SystemFacade.#ctor(Gateway.Domain.Services.IUserService,Gateway.Domain.Services.IWritterService,Gateway.Domain.Services.IEditorService,AutoMapper.IMapper)">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.SystemFacade.AproveRejectPost(Gateway.API.Dto.PostRequest)">
+            <summary>
+            Method that approves or rejects a post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.SystemFacade.AutenticateUser(Gateway.API.Dto.UserLoginRequest)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.SystemFacade.CreatePost(Gateway.API.Dto.CreatePostRequest)">
+            <summary>
+            Method that creates a post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.SystemFacade.DeletePost(Gateway.API.Dto.PostDeleteRequest)">
+            <summary>
+            Method that deletes a post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.SystemFacade.GetPendingPosts">
+            <summary>
+            Method that obtains the post pending approval or rejection
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Implementations.SystemFacade.SaveComment(Gateway.API.Dto.CommentSaveRequest)">
+            <summary>
+            method that stores a comment for an approved post
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Facades.Interfaces.ISystemFacade">
+            <summary>
+            facade interface
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.ISystemFacade.AproveRejectPost(Gateway.API.Dto.PostRequest)">
+            <summary>
+            Method that approves or rejects a post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.ISystemFacade.AutenticateUser(Gateway.API.Dto.UserLoginRequest)">
+            <summary>
+            Method that validates a user's username and password
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.ISystemFacade.CreatePost(Gateway.API.Dto.CreatePostRequest)">
+            <summary>
+            Method that creates a post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.ISystemFacade.DeletePost(Gateway.API.Dto.PostDeleteRequest)">
+            <summary>
+            Method that deletes a post
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.ISystemFacade.GetPendingPosts">
+            <summary>
+            Method that obtains the post pending approval or rejection
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Facades.Interfaces.ISystemFacade.SaveComment(Gateway.API.Dto.CommentSaveRequest)">
+            <summary>
+            Method that saves a comment in the database
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.CommentSaveRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.CreatePostRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Mappings.PostProfile">
+            <summary>
+            class that performs the different mapping of the application
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.PostProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.PostRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.PostDeleteRequestProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Mappings.UserProfile">
+            <summary>
+            class that performs the different mapping of the application
+            </summary>
+        </member>
+        <member name="M:Gateway.API.Mappings.UserProfile.#ctor">
+            <summary>
+            Class constructor
+            </summary>
+        </member>
+        <member name="T:Gateway.API.Middlewares.ExceptionMiddleware">
+            <summary>
+            class that handles application exceptions
+            </summary>
+        </member>
+    </members>
+</doc>
